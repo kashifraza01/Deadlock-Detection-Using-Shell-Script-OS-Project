@@ -59,10 +59,10 @@ chmod +x detect_deadlock.sh
 ## 🖼️ Example Outputs
 
 **Output 1: Deadlock Detected**
-![Output 1](./Output%201.PNG)
+![Output 1](./output%201.PNG)
 
 **Output 2: No Deadlock Detected**
-![Output 2](./Output%202.PNG)
+![Output 2](./output%202.PNG)
 
 ---
 
